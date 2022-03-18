@@ -24,7 +24,20 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### Hi there 👋
+---
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="С" alt="С" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+
+</div>
+
+
+---
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AntonPrm&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 <!--
 **AntonPrm/AntonPrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
